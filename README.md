@@ -5,7 +5,7 @@
 
 
 
-<h2 align="center"> Requisições</h2>
+<h2 align="center"> Aulas</h2>
 
 - [ ] Apresentação e conceitos básicos
 - [ ] Programação Reativa
