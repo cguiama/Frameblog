@@ -1,6 +1,5 @@
-<h1 align="center"> Faculdade Descomplica, Modulo 3B - Framework</h1>
-<h2>Neste módulo da faculdade, construirei uma API com Java e Spring</h2>
-<p>Esse repositório tem como principal objetivo guardar os códigos das aulas práticas da disciplina para aprimorar minhas habilidades em vários tópicos, desenvolvendo a implementação de API com controle de autenticação e autorização, também com mecanismos de mensageria. Além de conhecer sobre o uso de cache, recursos de balanceamento de APIs, processo de falha e exceções em APIs e o consumo de APIs externas dentre outros conceitos.</p>
+<h1 align="center"> Faculdade Descomplica | Modulo 3B - Framework</h1>
+<p>Este repositório tem como principal objetivo guardar os códigos das aulas práticas da disciplina para aprimorar minhas habilidades em vários tópicos, desenvolvendo a implementação de API com controle de autenticação e autorização, também com mecanismos de mensageria. Além de conhecer sobre o uso de cache, recursos de balanceamento de APIs, processo de falha e exceções em APIs e o consumo de APIs externas dentre outros conceitos.</p>
 
 ## 💻 Projeto da Disciplina
 O projeto da disciplina tem a intenção de criar uma estrutura de mini-blog onde existem usuários administradores ou usuários comuns. Uma postagem poderá ter vários comentários e tags. Um usuário poderá ter várias postagens e também vários comentários. Dentre outros pequenos detalhes. Abaixo temos o diagrama de entidade-relacionamento do projeto para melhor entendimento da estrutura - foi explicado em aula.
