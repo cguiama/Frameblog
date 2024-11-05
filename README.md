@@ -5,7 +5,7 @@
 ## 💻 Projeto da Disciplina
 O projeto da disciplina tem a intenção de criar uma estrutura de mini-blog onde existem usuários administradores ou usuários comuns. Uma postagem poderá ter vários comentários e tags. Um usuário poderá ter várias postagens e também vários comentários. Dentre outros pequenos detalhes. Abaixo temos o diagrama de entidade-relacionamento do projeto para melhor entendimento da estrutura - foi explicado em aula.
 > Clique na imagem para visualizar em tamanho original.
-<img src="https://github.com/cguiama/DescomplicaFramework/tree/main/Material/relacaoEntidade.png" width=50% height=50%>
+<img src="https://github.com/cguiama/DescomplicaFramework/blob/main/Material/relacaoEntidade.png" width=50% height=50%>
 
 <h2 align="center"> Aulas</h2>
 
