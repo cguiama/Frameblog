@@ -8,7 +8,7 @@
 <h2 align="center"> Aulas</h2>
 
 - [X] Apresentação e conceitos básicos
-- [ ] Programação Reativa
+- [X] Programação Reativa
 - [ ] API com Java e SpringBoot
 - [ ] Autenticação e Autorização
 - [ ] Banco de Dados
