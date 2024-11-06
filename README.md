@@ -2,7 +2,7 @@
 <p>Este repositório tem como principal objetivo guardar os códigos das aulas práticas da disciplina para aprimorar minhas habilidades em vários tópicos, desenvolvendo a implementação de API com controle de autenticação e autorização, também com mecanismos de mensageria. Além de conhecer sobre o uso de cache, recursos de balanceamento de APIs, processo de falha e exceções em APIs e o consumo de APIs externas dentre outros conceitos.</p>
 
 ## 💻 Projeto da Disciplina
-O projeto da disciplina tem a intenção de criar uma estrutura de mini-blog onde existem usuários administradores ou usuários comuns. Uma postagem poderá ter vários comentários e tags. Um usuário poderá ter várias postagens e também vários comentários. Dentre outros pequenos detalhes. Abaixo temos o diagrama de entidade-relacionamento do projeto para melhor entendimento da estrutura - foi explicado em aula.
+O projeto da disciplina tem a intenção de criar uma estrutura de mini-blog onde existem usuários administradores ou usuários comuns. Uma postagem poderá ter vários comentários e tags. Um usuário poderá ter várias postagens e também vários comentários. Dentre outros pequenos detalhes. Abaixo temos o diagrama de entidade-relacionamento do projeto para melhor entendimento da estrutura.
 > Clique na imagem para visualizar em tamanho original.
 <img src="https://github.com/cguiama/DescomplicaFramework/blob/main/Material/relacaoEntidade.png" width=50% height=50%>
 
@@ -10,8 +10,8 @@ O projeto da disciplina tem a intenção de criar uma estrutura de mini-blog ond
 
 - [X] Apresentação e conceitos básicos
 - [X] Programação Reativa
-- [ ] API com Java e SpringBoot
-- [ ] Autenticação e Autorização
+- [X] API com Java e SpringBoot
+- [X] Autenticação e Autorização
 - [ ] Banco de Dados
 - [ ] Falhas e Exceções
 - [ ] Versionamento de API
