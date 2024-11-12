@@ -1,5 +1,4 @@
 package com.descomplica.Frameblog.models;
-
 import com.descomplica.Frameblog.enums.RoleEnum;
 import jakarta.persistence.*;
 

@@ -29,6 +29,7 @@ public class UserController {
     private @ResponseBody User get(@RequestParam final Long id){
         return userService.get(id);
     }
+    
     @PostMapping(path= "/update")
     private @ResponseBody User update(@RequestParam final Long id, @RequestBody User user){
         return userService.update(id, user);
@@ -44,5 +45,4 @@ public class UserController {
     public @ResponseBody String authentication(){
         return "Hello World";
     }
-
 }

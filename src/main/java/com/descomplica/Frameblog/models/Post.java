@@ -1,10 +1,9 @@
 package com.descomplica.Frameblog.models;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "posts")
+@Table(name = "Post")
 
 public class Post {
     @Id
